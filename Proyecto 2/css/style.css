@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    min-height: 80vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(26, 34, 32);
+}
+
+.reloj{
+    border: 1rem solid rgb(17, 216, 173);
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50vh;
+    font-family: monospace;
+    font-size: 3rem;
+    color: rgb(17, 216, 173);
+}
+
+.p-1{
+    justify-content: center;
+    align-items: center;
+    color: rgb(17, 216, 173);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.p-2{
+    justify-content: center;
+    align-items: center;
+    color: rgb(17, 216, 173);
+    font-family: 'Courier New', Courier, monospace;
+
+}
